@@ -2,11 +2,11 @@
  A post-disaster survivor dataset is used for UAV post-disaster personnel search and rescue and statistics, it contains the real-world post-disaster UAV images from multiple perspectives, scenes, and distances.
 
 
-File 879 is a collection of survivors' images of post-disaster ruins for UAV search and rescue. It contains 879 images and corresponding "label" files. 
+File "879real survivor" is a collection of survivors' images of post-disaster ruins for UAV search and rescue. It contains 879 images and corresponding "label" files. 
 
-File 155 is a test dataset from reference [1][2], containing 155 images and corresponding "label" files.
+File "155real survivor" is the test dataset from reference [1][2], containing four email screenshots. In this study, 155 images out of 250 images and corresponding "label" files were applied. Due to copyright issues, it is not convenient to publish this dataset. And if necessary, you can contact the author of the paper to obtain this dataset.
 
-File 112 is the corresponding post-disaster crowd image and the corresponding "label" file.
+File "112TinyPerson" is the corresponding post-disaster crowd image and the corresponding "label" file.
 
 The "label" files are the tex file in YOLO format.
 
