@@ -19,3 +19,13 @@ The "label" files are the tex file in YOLO format.
 
 # Detection-Models
 The models and codes are available. [Click here](https://github.com/yangguanghaiann/Detection-Models)
+
+
+# Bibtex
+@article{song2023pdd,
+  title={PDD: Post-Disaster Dataset for Human Detection and Performance Evaluation},
+  author={Song, Haoqian and Song, Weiwei and Cheng, Long and Wei, Yue and Cui, Jinqiang},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2023},
+  publisher={IEEE}
+}
