@@ -24,12 +24,13 @@ The models and codes are available. [Click here](https://github.com/yangguanghai
 # Bibtex
 ```
 @article{song2023pdd,
-  title={\text{PDD}: post-disaster dataset for human detection and performance evaluation},
+  title={PDD: post-disaster dataset for human detection and performance evaluation},
   author={Song, Haoqian and Song, Weiwei and Cheng, Long and Wei, Yue and Cui, Jinqiang},
   journal={IEEE Transactions on Instrumentation and Measurement},
   year={2023},
   volume={73},
-  pages={5501214.1--5501214.14},
+  articlenumber={5501214},
+  pages={1--14},
   month={Dec.},
   publisher={IEEE}
 }
